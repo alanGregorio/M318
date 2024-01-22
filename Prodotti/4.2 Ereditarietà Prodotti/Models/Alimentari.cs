@@ -9,32 +9,20 @@ namespace _4._2_Ereditarietà_Prodotti.Models
     internal class Alimentari : Prodotto
     {
 
-		private int _dataScadenza;
+        private DateTime _dataScadenza;
 
-		public int DataScadenza
+        public DateTime DataScadenza
         {
-			get { return _dataScadenza; }
-			set { _dataScadenza = value; }
-		}
-
-		public Alimentari(int dataScadenza, int codiceBarre, string descrizione, int prezzo):base(codiceBarre, descrizione, prezzo)
-		{
-
-			DataScadenza = dataScadenza;
-
-		}
-
-
-        public override void applicaSconto()
-        {
-            if (DataScadenza + 10 >= )
-            {
-                Prezzo = Prezzo * 0.8;
-            }
-            else
-            {
-                Prezzo = Prezzo * 0.95;
-            }
+            get { return _dataScadenza; }
+            set { _dataScadenza = value; }
         }
+
+        public Alimentari(DateTime dataScadenza, int codiceBarre, string descrizione, int prezzo) : base(codiceBarre, descrizione, prezzo)
+        {
+
+            DataScadenza = dataScadenza;
+
+        }
+
     }
 }

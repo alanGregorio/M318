@@ -38,10 +38,14 @@ namespace _4._2_Ereditarietà_Prodotti.Models
             Prezzo = prezzo;
         }
 
-        public void applicaSconto()
+        public float applicaSconto()
         {
-            Prezzo = Prezzo * 95;
+            return Prezzo * 0.95f;
         }
 
+        public override string ToString()
+        {
+            return CodiceBarre + "; " +  Descrizione + "; " + Prezzo + "; " ;
+        }
     }
 }

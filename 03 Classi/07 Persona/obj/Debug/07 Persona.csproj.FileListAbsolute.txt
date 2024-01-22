@@ -1,0 +1,8 @@
+D:\SAMT 23-24\M 318\esercizi\03 Classi\07 Persona\bin\Debug\07 Persona.exe.config
+D:\SAMT 23-24\M 318\esercizi\03 Classi\07 Persona\bin\Debug\07 Persona.exe
+D:\SAMT 23-24\M 318\esercizi\03 Classi\07 Persona\bin\Debug\07 Persona.pdb
+D:\SAMT 23-24\M 318\esercizi\03 Classi\07 Persona\obj\Debug\07 Persona.csproj.AssemblyReference.cache
+D:\SAMT 23-24\M 318\esercizi\03 Classi\07 Persona\obj\Debug\07 Persona.csproj.SuggestedBindingRedirects.cache
+D:\SAMT 23-24\M 318\esercizi\03 Classi\07 Persona\obj\Debug\07 Persona.csproj.CoreCompileInputs.cache
+D:\SAMT 23-24\M 318\esercizi\03 Classi\07 Persona\obj\Debug\07 Persona.exe
+D:\SAMT 23-24\M 318\esercizi\03 Classi\07 Persona\obj\Debug\07 Persona.pdb

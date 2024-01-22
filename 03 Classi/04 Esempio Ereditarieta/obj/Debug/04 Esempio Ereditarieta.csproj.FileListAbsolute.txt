@@ -1,0 +1,8 @@
+D:\SAMT 23-24\M 318\esercizi\03 Classi\04 Esempio Ereditarieta\bin\Debug\04 Esempio Ereditarieta.exe.config
+D:\SAMT 23-24\M 318\esercizi\03 Classi\04 Esempio Ereditarieta\bin\Debug\04 Esempio Ereditarieta.exe
+D:\SAMT 23-24\M 318\esercizi\03 Classi\04 Esempio Ereditarieta\bin\Debug\04 Esempio Ereditarieta.pdb
+D:\SAMT 23-24\M 318\esercizi\03 Classi\04 Esempio Ereditarieta\obj\Debug\04 Esempio Ereditarieta.csproj.AssemblyReference.cache
+D:\SAMT 23-24\M 318\esercizi\03 Classi\04 Esempio Ereditarieta\obj\Debug\04 Esempio Ereditarieta.csproj.SuggestedBindingRedirects.cache
+D:\SAMT 23-24\M 318\esercizi\03 Classi\04 Esempio Ereditarieta\obj\Debug\04 Esempio Ereditarieta.csproj.CoreCompileInputs.cache
+D:\SAMT 23-24\M 318\esercizi\03 Classi\04 Esempio Ereditarieta\obj\Debug\04 Esempio Ereditarieta.exe
+D:\SAMT 23-24\M 318\esercizi\03 Classi\04 Esempio Ereditarieta\obj\Debug\04 Esempio Ereditarieta.pdb

@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Navigatore", "Navigatore\Navigatore.csproj", "{DF08B790-6DA7-40C8-B50E-10A5CF3E6E73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 Clown", "02 Clown\02 Clown.csproj", "{48A3832A-E4E7-4BAD-AC14-ACC4B2758FD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05 lattina", "05 lattina\05 lattina.csproj", "{198DB1C6-099B-403B-B689-DF986C14AB9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06 Fumetto", "06 Fumetto\06 Fumetto.csproj", "{CAA72E77-7FD7-4DA2-A73A-5AB8B013657C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04 Esempio Ereditarieta", "04 Esempio Ereditarieta\04 Esempio Ereditarieta.csproj", "{1066DE9A-8467-4886-8F67-DCBAB7E61904}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07 Persona", "07 Persona\07 Persona.csproj", "{A3E1FAD8-D9DC-49CD-AEAB-313E2FC2C26D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 geometria", "03 geometria\03 geometria.csproj", "{7A461673-0A47-4475-BEDF-EBA28EEF36F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF08B790-6DA7-40C8-B50E-10A5CF3E6E73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF08B790-6DA7-40C8-B50E-10A5CF3E6E73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF08B790-6DA7-40C8-B50E-10A5CF3E6E73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF08B790-6DA7-40C8-B50E-10A5CF3E6E73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48A3832A-E4E7-4BAD-AC14-ACC4B2758FD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48A3832A-E4E7-4BAD-AC14-ACC4B2758FD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48A3832A-E4E7-4BAD-AC14-ACC4B2758FD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48A3832A-E4E7-4BAD-AC14-ACC4B2758FD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{198DB1C6-099B-403B-B689-DF986C14AB9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{198DB1C6-099B-403B-B689-DF986C14AB9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{198DB1C6-099B-403B-B689-DF986C14AB9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{198DB1C6-099B-403B-B689-DF986C14AB9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAA72E77-7FD7-4DA2-A73A-5AB8B013657C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAA72E77-7FD7-4DA2-A73A-5AB8B013657C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAA72E77-7FD7-4DA2-A73A-5AB8B013657C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAA72E77-7FD7-4DA2-A73A-5AB8B013657C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1066DE9A-8467-4886-8F67-DCBAB7E61904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1066DE9A-8467-4886-8F67-DCBAB7E61904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1066DE9A-8467-4886-8F67-DCBAB7E61904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1066DE9A-8467-4886-8F67-DCBAB7E61904}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3E1FAD8-D9DC-49CD-AEAB-313E2FC2C26D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3E1FAD8-D9DC-49CD-AEAB-313E2FC2C26D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3E1FAD8-D9DC-49CD-AEAB-313E2FC2C26D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3E1FAD8-D9DC-49CD-AEAB-313E2FC2C26D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A461673-0A47-4475-BEDF-EBA28EEF36F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A461673-0A47-4475-BEDF-EBA28EEF36F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A461673-0A47-4475-BEDF-EBA28EEF36F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A461673-0A47-4475-BEDF-EBA28EEF36F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC3ED644-4E73-478A-B8AF-076B048C9222}
+	EndGlobalSection
+EndGlobal

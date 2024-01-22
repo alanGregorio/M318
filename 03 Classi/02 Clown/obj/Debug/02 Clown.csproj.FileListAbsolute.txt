@@ -1,0 +1,8 @@
+D:\SAMT 23-24\M 318\esercizi\03 Classi\02 Clown\bin\Debug\02 Clown.exe.config
+D:\SAMT 23-24\M 318\esercizi\03 Classi\02 Clown\bin\Debug\02 Clown.exe
+D:\SAMT 23-24\M 318\esercizi\03 Classi\02 Clown\bin\Debug\02 Clown.pdb
+D:\SAMT 23-24\M 318\esercizi\03 Classi\02 Clown\obj\Debug\02 Clown.csproj.AssemblyReference.cache
+D:\SAMT 23-24\M 318\esercizi\03 Classi\02 Clown\obj\Debug\02 Clown.csproj.SuggestedBindingRedirects.cache
+D:\SAMT 23-24\M 318\esercizi\03 Classi\02 Clown\obj\Debug\02 Clown.csproj.CoreCompileInputs.cache
+D:\SAMT 23-24\M 318\esercizi\03 Classi\02 Clown\obj\Debug\02 Clown.exe
+D:\SAMT 23-24\M 318\esercizi\03 Classi\02 Clown\obj\Debug\02 Clown.pdb

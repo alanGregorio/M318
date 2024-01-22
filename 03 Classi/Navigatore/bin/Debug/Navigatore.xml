@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Navigatore</name>
+    </assembly>
+    <members>
+        <member name="M:Consoleapp2.models.Prova.TrovaPercorso(System.String)">
+            <summary>
+            Ottenere il tragitto
+            </summary>
+            <param name="Destinazione">destinazione da raggiungere</param>
+            <returns>Percorso da effettuare</returns>
+        </member>
+        <member name="M:Consoleapp2.models.Prova.InserireDeviazione(System.String)">
+            <summary>
+            Metodo che trova un altro percorso da una deviazione
+            </summary>
+            <param name="Deviazione">Deviazione di percorso</param>
+            <returns>percorso</returns>
+        </member>
+        <member name="M:Consoleapp2.models.Prova.DistanzaTotale">
+            <summary>
+            Metodo che calcola la distanza del percorso
+            </summary>
+            <returns>Distanza</returns>
+        </member>
+        <member name="M:Consoleapp2.models.Prova.TempoTotale(System.String)">
+            <summary>
+            Metodo che calcola il tempo totale di percorrenza 
+            </summary>
+            <param name="Destinazione">destinazione da raggiungere</param>
+            <returns>Tempo di percorrenza</returns>
+        </member>
+        <member name="M:Consoleapp2.models.Prova.Informazioni">
+            <summary>
+            metodo che stampa le informazioni sul navigatore 
+            </summary>
+            <returns>informazioni</returns>
+        </member>
+    </members>
+</doc>

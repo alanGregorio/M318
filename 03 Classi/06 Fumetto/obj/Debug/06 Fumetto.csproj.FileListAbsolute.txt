@@ -1,0 +1,8 @@
+D:\SAMT 23-24\M 318\esercizi\03 Classi\06 Fumetto\bin\Debug\06 Fumetto.exe.config
+D:\SAMT 23-24\M 318\esercizi\03 Classi\06 Fumetto\bin\Debug\06 Fumetto.exe
+D:\SAMT 23-24\M 318\esercizi\03 Classi\06 Fumetto\bin\Debug\06 Fumetto.pdb
+D:\SAMT 23-24\M 318\esercizi\03 Classi\06 Fumetto\obj\Debug\06 Fumetto.csproj.AssemblyReference.cache
+D:\SAMT 23-24\M 318\esercizi\03 Classi\06 Fumetto\obj\Debug\06 Fumetto.csproj.SuggestedBindingRedirects.cache
+D:\SAMT 23-24\M 318\esercizi\03 Classi\06 Fumetto\obj\Debug\06 Fumetto.csproj.CoreCompileInputs.cache
+D:\SAMT 23-24\M 318\esercizi\03 Classi\06 Fumetto\obj\Debug\06 Fumetto.exe
+D:\SAMT 23-24\M 318\esercizi\03 Classi\06 Fumetto\obj\Debug\06 Fumetto.pdb

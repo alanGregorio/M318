@@ -1,0 +1,8 @@
+D:\SAMT 23-24\M 318\esercizi\03 Classi\05 lattina\bin\Debug\05 lattina.exe.config
+D:\SAMT 23-24\M 318\esercizi\03 Classi\05 lattina\bin\Debug\05 lattina.exe
+D:\SAMT 23-24\M 318\esercizi\03 Classi\05 lattina\bin\Debug\05 lattina.pdb
+D:\SAMT 23-24\M 318\esercizi\03 Classi\05 lattina\obj\Debug\05 lattina.csproj.AssemblyReference.cache
+D:\SAMT 23-24\M 318\esercizi\03 Classi\05 lattina\obj\Debug\05 lattina.csproj.SuggestedBindingRedirects.cache
+D:\SAMT 23-24\M 318\esercizi\03 Classi\05 lattina\obj\Debug\05 lattina.csproj.CoreCompileInputs.cache
+D:\SAMT 23-24\M 318\esercizi\03 Classi\05 lattina\obj\Debug\05 lattina.exe
+D:\SAMT 23-24\M 318\esercizi\03 Classi\05 lattina\obj\Debug\05 lattina.pdb

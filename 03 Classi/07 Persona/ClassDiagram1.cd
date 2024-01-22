@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_07_Persona.Models.Persona">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAgAAEAAEAIAABAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Models\Persona.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_07_Persona.Models.Studente">
+    <Position X="5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAEAAAAAAAAAAAAAgAAgAgAAAAAAAA=</HashCode>
+      <FileName>Models\Studente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_07_Persona.Models.Docente">
+    <Position X="1.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAEAAAAAAAAAEAAAAAAAAAAQAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Models\Docente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

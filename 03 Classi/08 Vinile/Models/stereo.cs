@@ -20,5 +20,55 @@ namespace _08_Vinile.Models
         {
             _modello = modello;
         }
+
+        public void InserisciSupportoCassetta()
+        {
+
+        }
+
+        public void InserisciSupportoVinile()
+        {
+
+        }
+
+        public void InserisciSupportoCD()
+        {
+
+        }
+
+        public void RimuoviSupportoCD()
+        {
+
+        }
+
+        public void RimuoviSupportoVinile()
+        {
+
+        }
+
+        public void RimuoviSupportoCassetta()
+        {
+
+        }
+
+        public void PlayCD()
+        {
+
+        }
+
+        public void PlayVinile()
+        {
+
+        }
+
+        public void PlayCassetta()
+        {
+
+        }
+
+        public void Stop()
+        {
+
+        }
     }
 }

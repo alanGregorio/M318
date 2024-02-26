@@ -6,3 +6,11 @@ D:\SAMT 23-24\M 318\esercizi\03 Classi\07 Persona\obj\Debug\07 Persona.csproj.Su
 D:\SAMT 23-24\M 318\esercizi\03 Classi\07 Persona\obj\Debug\07 Persona.csproj.CoreCompileInputs.cache
 D:\SAMT 23-24\M 318\esercizi\03 Classi\07 Persona\obj\Debug\07 Persona.exe
 D:\SAMT 23-24\M 318\esercizi\03 Classi\07 Persona\obj\Debug\07 Persona.pdb
+D:\github\M318\03 Classi\07 Persona\bin\Debug\07 Persona.exe.config
+D:\github\M318\03 Classi\07 Persona\bin\Debug\07 Persona.exe
+D:\github\M318\03 Classi\07 Persona\bin\Debug\07 Persona.pdb
+D:\github\M318\03 Classi\07 Persona\obj\Debug\07 Persona.csproj.AssemblyReference.cache
+D:\github\M318\03 Classi\07 Persona\obj\Debug\07 Persona.csproj.SuggestedBindingRedirects.cache
+D:\github\M318\03 Classi\07 Persona\obj\Debug\07 Persona.csproj.CoreCompileInputs.cache
+D:\github\M318\03 Classi\07 Persona\obj\Debug\07 Persona.exe
+D:\github\M318\03 Classi\07 Persona\obj\Debug\07 Persona.pdb

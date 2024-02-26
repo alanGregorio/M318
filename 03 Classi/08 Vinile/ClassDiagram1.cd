@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_08_Vinile.Models.AudioCassetta">
+    <Position X="2.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\AudioCassetta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_08_Vinile.Models.brano">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAsAAAAAAAAAAAAAAAAAAAAAAAAUQAAA=</HashCode>
+      <FileName>Models\brano.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_08_Vinile.Models.CD">
+    <Position X="7" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\CD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_08_Vinile.Models.stereo">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAIBQAAAAAAAAgQAEAEQAAAAAAIAAAAAAQAEA=</HashCode>
+      <FileName>Models\stereo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_08_Vinile.Models.Supporto">
+    <Position X="5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAABAAAAACAAAAAAAAACEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Supporto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_08_Vinile.Models.Vinile">
+    <Position X="5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Vinile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

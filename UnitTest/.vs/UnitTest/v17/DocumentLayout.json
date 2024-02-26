@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\github\\M318\\UnitTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{666A449E-3A20-4B53-A691-DBD25C9C0E49}|01 Test\\01 Test.csproj|d:\\github\\m318\\unittest\\01 test\\models\\numeroshould.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{666A449E-3A20-4B53-A691-DBD25C9C0E49}|01 Test\\01 Test.csproj|solutionrelative:01 test\\models\\numeroshould.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691179A0-5EA8-4826-9F50-23C2E6730BB1}|01 esempio\\01esempio.csproj|d:\\github\\m318\\unittest\\01 esempio\\models\\numero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{691179A0-5EA8-4826-9F50-23C2E6730BB1}|01 esempio\\01esempio.csproj|solutionrelative:01 esempio\\models\\numero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666A449E-3A20-4B53-A691-DBD25C9C0E49}|01 Test\\01 Test.csproj|d:\\github\\m318\\unittest\\01 test\\01 test.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{666A449E-3A20-4B53-A691-DBD25C9C0E49}|01 Test\\01 Test.csproj|solutionrelative:01 test\\01 test.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "01 Test",
+              "DocumentMoniker": "D:\\github\\M318\\UnitTest\\01 Test\\01 Test.csproj",
+              "RelativeDocumentMoniker": "01 Test\\01 Test.csproj",
+              "ToolTip": "D:\\github\\M318\\UnitTest\\01 Test\\01 Test.csproj",
+              "RelativeToolTip": "01 Test\\01 Test.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-26T09:19:42.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Numero.cs",
+              "DocumentMoniker": "D:\\github\\M318\\UnitTest\\01 esempio\\Models\\Numero.cs",
+              "RelativeDocumentMoniker": "01 esempio\\Models\\Numero.cs",
+              "ToolTip": "D:\\github\\M318\\UnitTest\\01 esempio\\Models\\Numero.cs",
+              "RelativeToolTip": "01 esempio\\Models\\Numero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T09:13:44.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NumeroShould.cs",
+              "DocumentMoniker": "D:\\github\\M318\\UnitTest\\01 Test\\Models\\NumeroShould.cs",
+              "RelativeDocumentMoniker": "01 Test\\Models\\NumeroShould.cs",
+              "ToolTip": "D:\\github\\M318\\UnitTest\\01 Test\\Models\\NumeroShould.cs",
+              "RelativeToolTip": "01 Test\\Models\\NumeroShould.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-05T10:28:01.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\github\M318\UnitTest\01 esempio\bin\Debug\net6.0\01esempio.exe
+D:\github\M318\UnitTest\01 esempio\bin\Debug\net6.0\01esempio.deps.json
+D:\github\M318\UnitTest\01 esempio\bin\Debug\net6.0\01esempio.runtimeconfig.json
+D:\github\M318\UnitTest\01 esempio\bin\Debug\net6.0\01esempio.dll
+D:\github\M318\UnitTest\01 esempio\bin\Debug\net6.0\01esempio.pdb
+D:\github\M318\UnitTest\01 esempio\obj\Debug\net6.0\01esempio.csproj.AssemblyReference.cache
+D:\github\M318\UnitTest\01 esempio\obj\Debug\net6.0\01esempio.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\M318\UnitTest\01 esempio\obj\Debug\net6.0\01esempio.AssemblyInfoInputs.cache
+D:\github\M318\UnitTest\01 esempio\obj\Debug\net6.0\01esempio.AssemblyInfo.cs
+D:\github\M318\UnitTest\01 esempio\obj\Debug\net6.0\01esempio.csproj.CoreCompileInputs.cache
+D:\github\M318\UnitTest\01 esempio\obj\Debug\net6.0\01esempio.dll
+D:\github\M318\UnitTest\01 esempio\obj\Debug\net6.0\refint\01esempio.dll
+D:\github\M318\UnitTest\01 esempio\obj\Debug\net6.0\01esempio.pdb
+D:\github\M318\UnitTest\01 esempio\obj\Debug\net6.0\01esempio.genruntimeconfig.cache
+D:\github\M318\UnitTest\01 esempio\obj\Debug\net6.0\ref\01esempio.dll

@@ -11,7 +11,7 @@ namespace _08_Vinile.Models
 
         private string _marca;
         private string _modello;
-        private string _traccie;
+        private brano[] _traccie;
 
         public string Marca
         {
@@ -25,13 +25,13 @@ namespace _08_Vinile.Models
             set { _modello = value; }
         }
 
-        public string Traccie
+        public brano[] Traccie
         {
             get { return _traccie; }
             set { _traccie = value; }
         }
 
-        public Supporto(string marca, string modello, string traccie)
+        public Supporto(string marca, string modello, brano[] traccie)
         {
             Marca = marca;
             Modello = modello;

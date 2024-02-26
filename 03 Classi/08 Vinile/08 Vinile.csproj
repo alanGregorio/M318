@@ -7,7 +7,7 @@
     <ProjectGuid>{23E5E6A8-4720-430A-83D5-CE7F89FC9B66}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_08_Vinile</RootNamespace>
-    <AssemblyName>_08_Vinile</AssemblyName>
+    <AssemblyName>08 Vinile</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,11 +43,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Models\AudioCassetta.cs" />
+    <Compile Include="Models\brano.cs" />
+    <Compile Include="Models\CD.cs" />
+    <Compile Include="Models\stereo.cs" />
+    <Compile Include="Models\Supporto.cs" />
+    <Compile Include="Models\Vinile.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="ClassDiagram1.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -16,7 +16,7 @@ namespace _08_Vinile.Models
             set { _dimensione = value; }
         }
 
-        public CD(string marca, string modello, string traccie, double dimensione) : base(marca, modello, traccie) 
+        public CD(string marca, string modello, brano[] traccie, double dimensione) : base(marca, modello, traccie) 
         {
             Dimensione = dimensione;
         }

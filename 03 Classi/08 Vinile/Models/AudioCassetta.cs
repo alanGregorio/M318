@@ -17,7 +17,7 @@ namespace _08_Vinile.Models
             set { _lunghezzaNastro = value; }
         }
 
-        public AudioCassetta(string marca, string modello, string traccie, double lunghezzaNastro) : base(marca, modello, traccie)
+        public AudioCassetta(string marca, string modello, brano[] traccie, double lunghezzaNastro) : base(marca, modello, traccie)
         {
             LunghezzaNastro = lunghezzaNastro;
         }

@@ -16,7 +16,7 @@ namespace _08_Vinile.Models
             set { _giriMinuti = value; }
         }
 
-        public Vinile(string marca, string modello, string traccie, int giriMinuti) : base(marca, modello,traccie)
+        public Vinile(string marca, string modello, brano[] traccie, int giriMinuti) : base(marca, modello,traccie)
         {
             GiriMinuti = giriMinuti;
         }

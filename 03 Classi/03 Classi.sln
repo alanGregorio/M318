@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07 Persona", "07 Persona\07
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 geometria", "03 geometria\03 geometria.csproj", "{7A461673-0A47-4475-BEDF-EBA28EEF36F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08 Vinile", "08 Vinile\08 Vinile.csproj", "{23E5E6A8-4720-430A-83D5-CE7F89FC9B66}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{7A461673-0A47-4475-BEDF-EBA28EEF36F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A461673-0A47-4475-BEDF-EBA28EEF36F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A461673-0A47-4475-BEDF-EBA28EEF36F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23E5E6A8-4720-430A-83D5-CE7F89FC9B66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23E5E6A8-4720-430A-83D5-CE7F89FC9B66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23E5E6A8-4720-430A-83D5-CE7F89FC9B66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23E5E6A8-4720-430A-83D5-CE7F89FC9B66}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
